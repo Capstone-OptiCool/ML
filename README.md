@@ -1,8 +1,8 @@
 # OptiCool-MachineLearning
-# 👓 OptiCool 😎 - Stay in Style, See with Confidence (Team C23-PS379) - ML Repository
+# 👓 OptiCool 😎 - Stay in Style, See with Confidence (Team CH2-PS291) - ML Repository
 
 Opticool Machine Learning Repository for Bangkit Capstone Project. Building face shape classifier Model
-## 👥Guardian of Machine Learning Bangkit Academy Capstone Team C23-PS379
+## 😎The Coolers of Machine Learning Bangkit Academy Capstone Team CH2-PS291
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
 | Rizky Intan Nurlita  | M008BSX1236 |  Machine Learning  |Machine Learning Engineer |[rizkyintan](https://github.com/rizkyintan)|
@@ -28,7 +28,7 @@ We have model, eyeglassess frame, and recomendation algorithm in this repository
 ## Model Performance
 ### Face Shape Classifier
 #### Model Training Performance
-![face_shape_model](https://github.com/akbarsigit/Pedotan-MachineLearning/assets/72943849/3bc7834a-53fd-4500-bab7-7bbf054b112e)
+![face_shape_model](hhttps://github.com/Capstone-OptiCool/ML/blob/main/assets/trainingresult.png)
 #### Performance after Fine Tuning
 ![finetuning_disease](https://github.com/akbarsigit/Pedotan-MachineLearning/assets/72943849/021fff2b-adc2-4ee6-8794-ae958849b807)
 

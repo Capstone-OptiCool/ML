@@ -20,31 +20,26 @@ Opticool Machine Learning Repository for Bangkit Capstone Project. Building face
 ## About 
 We have model, eyeglassess frame, and recomendation algorithm in this repository
 ### Face Shape Classifier
-- [FaceShape Classifier ](https://github.com/Capstone-OptiCool/ML/blob/main/face_shape_classifier_fix.ipynb) 
-(image classification) use MobileNet as the base model for transfer learning that is taken from [Keras](https://keras.io/api/applications/inceptionv3/). The model also contains an additional layer that received output from the based model. We use datasets [Face Shape Image Dataset](https://www.kaggle.com/datasets/alinedobrovsky/plant-disease-classification-merged-dataset) that contains 3,981 face images.
+- [Face Shape Classifier](https://github.com/Capstone-OptiCool/ML/blob/main/face_shape_classifier_fix.ipynb) 
+(image classification) use MobileNet as the base model for transfer learning that is taken from [Keras](https://keras.io/api/applications/mobilenet/). The model also contains an additional layer that received output from the based model. We use datasets [Face Shape Image Dataset](https://drive.google.com/drive/folders/19dP85vtcz_JzkQMs6e9Z01WZzWchGOJo?usp=drive_link) that contains 3,981 face images.
+
+### Eyeglasses Frame
+- we scrapping around to get the eyeglasses 
 
 
   
 ## Model Performance
 ### Face Shape Classifier
 #### Model Training Performance
-![face_shape_model](hhttps://github.com/Capstone-OptiCool/ML/blob/main/assets/trainingresult.png)
+![trainingaccuracy](assets/train_accuracy.png)
 #### Performance after Fine Tuning
-![finetuning_disease](https://github.com/akbarsigit/Pedotan-MachineLearning/assets/72943849/021fff2b-adc2-4ee6-8794-ae958849b807)
-
-### Nutrient Deficiency
-#### Model Training Performance
-![image](https://github.com/akbarsigit/Pedotan-MachineLearning/assets/72943849/acf1c620-55b9-4073-b5fa-f7eff95ffc8d)
-#### Performance after Fine Tuning
-![image](https://github.com/akbarsigit/Pedotan-MachineLearning/assets/72943849/517c78e3-7b5d-4db4-9eb0-be574303d9b0)
+![finetuning_disease](assets/train_result.png)
 
 
 ### Performance Summary
 Models | Accuracy | Val Accuracy
 ------------ | ------------- | -------------
-Plant Disease Detection | 97.02 % | 96.37 %
-Nutrient Deficiency Detection | 99.08% | 94.78%
-Ideal Farm Detection | 96.56% | 98.75%
+Face Shape Classifier | 99.8 % | 83.5 %
 
 
 ## Run the ipynb in Google Colab

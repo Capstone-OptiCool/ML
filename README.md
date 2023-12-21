@@ -15,7 +15,6 @@ Opticool Machine Learning Repository for Bangkit Capstone Project. Building face
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![PIL](https://img.shields.io/badge/PIL-%23150458.svg?style=for-the-badge&logo=pypi&logoColor=white)
-![PIL](https://img.shields.io/badge/MATPLOTLIB-%23150458.svg?style=for-the-badge&logo=&logoColor=white)
 
 ## About 
 We have model, eyeglassess frame datasets, and recomendation algorithm in this repository
@@ -26,7 +25,7 @@ We have model, eyeglassess frame datasets, and recomendation algorithm in this r
 #### Model Training Performance
 ![trainingaccuracy](assets/train_accuracy.png)
 #### Performance after Fine Tuning
-![finetuning_disease](assets/train_result.png)
+![finetuning](assets/train_result.png)
 
 #### Performance Summary
 Models | Accuracy | Val Accuracy

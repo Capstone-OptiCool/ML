@@ -55,7 +55,7 @@ The dataset, consisting of 610 entries, is intended to facilitate the developmen
 
 - **FrameStyle:** Style or design category of the eyeglasses frame.
 
-- **FrameMaterial:** Material used in the construction of the eyeglasses frame.
+- **FrameMaterial:** Material used to construct the eyeglasses frame.
 
 - **Pic1, Pic2, Pic3:** Images of the eyeglasses frame from different angles.
 
@@ -70,11 +70,11 @@ The primary purpose of the eyeglasses recommendation module is to enhance the us
 - The [recommendation algorithm](Eyeglass_Recomendation.ipynb) utilizes a combination of collaborative filtering and content-based filtering techniques to suggest eyeglasses frames. Collaborative filtering leverages user preferences and similarities, while content-based filtering considers the characteristics of eyeglasses frames and their alignment with face shapes. 
 - Users can explore recommended frames, view additional details, and provide feedback to further enhance subsequent recommendations.
 
-## Run the ipynb in Google Collab
-Dont need to install anything just follow the steps below
-1. Download or clone this repository.
-2. Open google colab
-3. Import the ipynb file
+## Run the ipynb in Google Colab
+You don't need to install anything just follow the steps below:
+1. Download or clone this repository
+2. Open Google Colab
+3. Import the .ipynb file
 4. Run the code
 
 ## Run in Local

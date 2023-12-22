@@ -79,13 +79,10 @@ Dont need to install anything just follow the steps below
 
 ## Run in Local
 
-1. Download the ipynb file or clone this repostitory
+1. Download the .ipynb file or clone this repostitory
 2. Run this locally using ex: jupyter notebook
-3. Install all the dependencis
+3. Install all the dependencies
   ```
   ! pip install -r requirements.txt
   ```
 4. Run all the code
-
-## References
-

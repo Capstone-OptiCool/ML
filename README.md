@@ -1,7 +1,7 @@
 # OptiCool-MachineLearning
-# 👓 OptiCool 😎 - Stay in Style, See with Confidence (Team CH2-PS291) - ML Repository
+## 👓 OptiCool 😎 - Stay in Style, See with Confidence (Team CH2-PS291) - ML Repository
 
-Opticool Machine Learning Repository for Bangkit Capstone Project. Building face shape classifier Model
+Opticool Machine Learning Repository for Bangkit Capstone Project. Building face shape classifier Model.
 ## 🤓 The Coolers of Machine Learning Bangkit Academy Capstone Team CH2-PS291
 |            Member           | Student ID |        Path        |                    Role                    |                                                       Contacts                                                      |
 | :-------------------------: | :--------: | :----------------: | :----------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: |
